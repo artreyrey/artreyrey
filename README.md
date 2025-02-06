@@ -3,7 +3,7 @@
 🌟 Game Developer & Artist<br>🎮 Crafting immersive gaming experiences is my passion<br>🤝 Open to collaborations and projects<br>🎨 Fun Fact: Games inspire me!<br>🚀 Let's create something awesome together!
 
 
-### 📲 Socials:
+### 📲 Socials and Tech Stacks
 
 
   <div align="left">
@@ -26,7 +26,7 @@
 </div>
 
 
-### 💻 Tech Stack:
+###
 
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-### Stats
+### 📊 Stats
 <div align="center">
 
 
