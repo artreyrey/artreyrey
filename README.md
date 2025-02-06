@@ -57,7 +57,7 @@
 <div style="display: flex; justify-content: space-between;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=artreyrey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width: 45%; height: 200px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artreyrey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="width: 40%; height: 200px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artreyrey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="width: 42%; height: 200px;">
 
 </div>
 
