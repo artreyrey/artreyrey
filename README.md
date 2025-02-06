@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c937df1f-d437-4bd3-9636-91b38430adae)![Masterhead](https://i.pinimg.com/originals/cc/e9/04/cce9043fb0b58b3ee3f2a13f95378c3f.gif)
+![Masterhead](https://i.pinimg.com/originals/cc/e9/04/cce9043fb0b58b3ee3f2a13f95378c3f.gif)
 # 🌆 About Me:
 🌟 Game Developer & Artist<br>🎮 Crafting immersive gaming experiences is my passion<br>🤝 Open to collaborations and projects<br>🎨 Fun Fact: Games inspire me!<br>🚀 Let's create something awesome together!
 
