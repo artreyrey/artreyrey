@@ -3,7 +3,7 @@
 🌟 Game Developer & Artist<br>🎮 Crafting immersive gaming experiences is my passion<br>🤝 Open to collaborations and projects<br>🎨 Fun Fact: Games inspire me!<br>🚀 Let's create something awesome together!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 
   <div align="center">
@@ -59,7 +59,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=artreyrey&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
