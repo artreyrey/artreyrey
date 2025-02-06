@@ -74,7 +74,7 @@
 ### 🔝 Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=artreyrey&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 80%; height: 180px; margin-top: 20px;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=artreyrey&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 50%; height: 180px; margin-top: 20px;">
 </div>
 
 
