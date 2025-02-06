@@ -24,4 +24,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=artreyrey&icon=8&color=1)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media = "(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artreyrey/artreyrey/output/github-snake-dark.svg" />
+  <source media = "(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artreyrey/artreyrey/output/github-snake.svg" />
+  <img alt = "github-snake" src = "https://raw.githubusercontent.com/artreyrey/artreyrey/output/github-snake.svg"/>
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
