@@ -3,7 +3,7 @@
 🌟 Game Developer & Artist<br>🎮 Crafting immersive gaming experiences is my passion<br>🤝 Open to collaborations and projects<br>🎨 Fun Fact: Games inspire me!<br>🚀 Let's create something awesome together!
 
 
-### 📲 Socials and Tech Stacks
+### 📲 Socials 
 
 
   <div align="left">
@@ -26,7 +26,7 @@
 </div>
 
 
-###
+### 🧩 Tech Stacks
 
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -66,8 +66,11 @@
 
 
 ### 🔝 Repositories
+
+<div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=artreyrey&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+</div>
 
 
 <picture>
