@@ -6,7 +6,7 @@
 ### 📲 Socials:
 
 
-  <div align="center">
+  <div align="left">
   <a href="https://www.instagram.com/lacuix/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
@@ -28,7 +28,7 @@
 
 ### 💻 Tech Stack:
 
-  <div align="center">
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-### 👾 Stats:
+
 
 ![](https://github-readme-stats.vercel.app/api?username=artreyrey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
