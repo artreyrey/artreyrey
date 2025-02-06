@@ -3,7 +3,7 @@
 🌟 Game Developer & Artist<br>🎮 Crafting immersive gaming experiences is my passion<br>🤝 Open to collaborations and projects<br>🎨 Fun Fact: Games inspire me!<br>🚀 Let's create something awesome together!
 
 
-# 🌐 Socials:
+### 🌐 Socials:
 
 
   <div align="center">
@@ -26,7 +26,7 @@
 </div>
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -48,17 +48,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-# 📊 GitHub Stats:
-<div align = "center">
+### 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=artreyrey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=artreyrey&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=artreyrey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
 
-## 🏆 GitHub Trophies
+
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=artreyrey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repository
