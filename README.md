@@ -59,13 +59,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=artreyrey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=artreyrey&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=artreyrey&icon=8&color=1)](https://visitcount.itsvg.in)
+
 
 <picture>
   <source media = "(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artreyrey/artreyrey/output/github-snake-dark.svg" />
