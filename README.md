@@ -53,9 +53,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=artreyrey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=artreyrey&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=artreyrey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=artreyrey&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=artreyrey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -68,8 +66,7 @@
 ### 🔝 Repositories
 
 <div align="center">
-![](https://github-contributor-stats.vercel.app/api?username=artreyrey&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+  <img src="https://github-contributor-stats.vercel.app/api?username=artreyrey&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 </div>
 
 
