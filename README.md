@@ -56,11 +56,11 @@
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=artreyrey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
-### 🏆 GitHub Trophies
+### 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=artreyrey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
-### 🔝 Top Contributed Repository
+### 🔝 Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=artreyrey&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
