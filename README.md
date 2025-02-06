@@ -1,4 +1,8 @@
-# 💫 About Me:
+
+<img aligh = "Center" alt = "coding" width="400" src = "https://i.pinimg.com/originals/cc/e9/04/cce9043fb0b58b3ee3f2a13f95378c3f.gif">
+
+
+# 🌆 About Me:
 🌟 Game Developer & Artist<br>🎮 Crafting immersive gaming experiences is my passion<br>🤝 Open to collaborations and projects<br>🎨 Fun Fact: Games inspire me!<br>🚀 Let's create something awesome together!
 
 
