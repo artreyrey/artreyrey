@@ -58,12 +58,12 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=artreyrey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width: 47%; height: 200px;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artreyrey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" alt="Top Languages" style="width: 39%; height:   200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artreyrey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" alt="Top Languages" style="width: 40%; height:   200px;">
 
 </div>
 
 <!-- Streak Stats at the Bottom -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=artreyrey&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" style="width: 80%; height: 180px; margin-top: 20px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=artreyrey&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" style="width: 80%; height: 180px; margin-top: 10px;">
 
 </div>
 
