@@ -40,7 +40,7 @@
 **Development Tools & Creative Software**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,blender,unity,photoshop,aftereffects" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,blender" />
 </p>
 
 ### 📊 GitHub Stats
