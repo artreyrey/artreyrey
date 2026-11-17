@@ -13,7 +13,7 @@
 - 💻 Developing full-stack web applications.
 - 🤖 Experimenting with AI integration and intelligent applications.
 - 🧩 Solving programming problems and exploring new technologies.
-- 🎨 Exploring creative projects, digital design, and game development.
+- 🎨 Exploring creative projects, digital design, and development.
 - 🚀 Learning new tools and continuously improving my development skills.
 
 ### 💼 My Experience
